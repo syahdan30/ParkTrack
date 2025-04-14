@@ -1,1 +1,1 @@
-Jika mau langsung menjalankan program, silahkan jalankan kode program python yang bernama Parkir.py
+If you want to run the program directly, please execute the Python code named Parkir.py.
